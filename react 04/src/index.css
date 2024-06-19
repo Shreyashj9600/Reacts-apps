@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(120, 168, 168);
+}
+.heading{
+    font-size: 50px;
+}
+.subTitle{
+    font-size: 30px;
+}
+ol{
+    font-size: 20px;
+}
