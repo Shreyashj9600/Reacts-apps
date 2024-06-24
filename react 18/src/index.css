@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(166, 223, 223)  ;
+}
+
+.info{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    padding: 15px;
+    margin-left: 15px;
+    font-size: larger;
+    background-color: blue;
+    cursor: pointer;
+    color: azure;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+}
+button:hover{
+    background-color: rgb(68, 68, 170);
+    transition: 1s ease-in-out;
+}
