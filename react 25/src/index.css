@@ -1,0 +1,45 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(166, 223, 223);
+}
+
+.center {
+    margin: auto;
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+}
+
+button {
+    padding: 15px;
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: larger;
+    background-color: rgb(62, 62, 136);
+    cursor: pointer;
+    color: azure;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+}
+
+button:hover {
+    background-color: rgb(68, 68, 170);
+    transition: 1s ease-in-out;
+} */
+
+h1 {
+    text-align: center;
+}
+
+.App {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
